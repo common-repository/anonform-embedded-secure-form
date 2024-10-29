@@ -1,0 +1,8 @@
+/* style for ifmae used by ANON::form secure web forms*/
+#anonform-app {
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 100%;
+	max-width: 750px;
+}
